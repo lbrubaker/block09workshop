@@ -23,3 +23,11 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 background-color: pink;
 
 }
+
+.about-content {
+    padding: 16px;
+margin-top: auto;
+padding-top: 100px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: pink;
+}
