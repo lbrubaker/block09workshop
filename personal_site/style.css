@@ -1,0 +1,23 @@
+.header { 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 10px 16px;
+background-color: lightblue;
+height: 100px;
+align-items: center;
+display: flex;
+justify-content: space-between;
+left: 0;
+right: 0;
+position: fixed;
+top: 0;
+
+}
+
+.home-content {
+
+padding: 16px;
+margin-top: auto;
+padding-top: 100px;
+
+}
+
